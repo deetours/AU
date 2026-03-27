@@ -431,7 +431,7 @@ export default function Home() {
         <div className="grid items-center gap-12 lg:grid-cols-[0.78fr_1.22fr]">
           <ParallaxMedia className="relative aspect-[4/5] overflow-hidden rounded-[2rem] shadow-[0_30px_80px_rgba(0,0,0,0.35)]">
             <Image
-              src="/images/portrait_harish.png"
+              src="/Harish.jpeg"
               alt="Portrait of Harish Narayan"
               fill
               className="object-cover grayscale-[18%] transition-all duration-700 hover:grayscale-0"
