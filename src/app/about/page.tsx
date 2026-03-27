@@ -128,7 +128,7 @@ export default function About() {
           </motion.div>
           <ParallaxMedia className="relative min-h-[30rem] overflow-hidden rounded-[2.2rem] shadow-[0_40px_100px_rgba(25,26,29,0.12)]">
             <Image
-              src="/images/about_hero.png"
+              src="/Harish.jpeg"
               alt="Harish Narayan"
               fill
               className="object-cover"

@@ -266,8 +266,8 @@ export default function Home() {
           >
             <ParallaxMedia className="relative min-h-[28rem] overflow-hidden rounded-[2.2rem] shadow-[0_40px_100px_rgba(25,26,29,0.12)] z-20">
               <Image
-                src="/images/hero_atmospheric.png"
-                alt="Atmospheric portrait and movement study"
+                src="/Harish.jpeg"
+                alt="Harish Narayan"
                 fill
                 priority
                 className="object-cover soft-mask-bottom"
