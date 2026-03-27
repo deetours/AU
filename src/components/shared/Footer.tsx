@@ -21,11 +21,6 @@ export default function Footer() {
     <footer className="relative overflow-hidden bg-[var(--color-brand-deep)] px-6 py-24 text-[var(--color-brand-bone)] md:px-12 md:py-28">
       <AmbientLayer tone="deep" intensity="medium" />
       <div className="pointer-events-none absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/12 to-transparent" />
-      <div className="pointer-events-none absolute inset-0 flex items-end justify-center opacity-[0.06]">
-        <span className="mb-12 font-serif text-[10rem] font-thin leading-none text-[var(--color-brand-amber)] md:text-[15rem]">
-          ALCHEMY
-        </span>
-      </div>
 
       <div className="relative z-10 mx-auto grid max-w-6xl gap-12 md:grid-cols-[1.4fr_1fr_1fr] md:gap-16">
         <motion.div

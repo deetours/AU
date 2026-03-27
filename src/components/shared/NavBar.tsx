@@ -38,13 +38,16 @@ export default function NavBar() {
     setIsScrolled(latest > 32);
   });
 
+  const isJourneyPage = pathname === "/journey";
+  const shouldShowLightBg = isScrolled || isJourneyPage;
+
   return (
     <>
       <motion.nav
         initial={false}
         className={cn(
           "fixed left-0 right-0 top-0 z-50 transition-colors duration-700",
-          isScrolled
+          shouldShowLightBg
             ? "border-b border-[var(--color-brand-stone)]/10 bg-[var(--color-brand-cloud)]/80 shadow-[0_10px_50px_rgba(25,26,29,0.05)] backdrop-blur-2xl"
             : "bg-transparent"
         )}
