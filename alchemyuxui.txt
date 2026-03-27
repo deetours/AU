@@ -1,0 +1,1206 @@
+Yes. Let’s plan this like a real product team would.
+
+I’m basing this on the current Alchemy Unbounded site structure and copy system: the live site already has a homepage promise, About, three service pillars, testimonials, pricing, contact, and a “Book a Free Discovery Call” CTA, with the core themes centered on transformation, creativity, movement, and consciousness. ([Alchemy Unbounded][1]) I’m also using the UX-law planning lens from your uploaded brief as the framework for how the experience should be designed. 
+
+# 1. UX north star
+
+**The product should feel like it is guiding the user inward, not pushing the user forward.**
+
+That means the UX must do four things in order:
+
+1. reduce noise
+2. create recognition
+3. build trust
+4. invite action
+
+Right now, the brand already has emotional depth and strong substance, but the current experience is heavier on long-form reading than on guided flow, and the three offerings are clear individually but not yet orchestrated as one intentional journey. ([Alchemy Unbounded][1])
+
+# 2. Full UX journey
+
+## Stage 1: Arrival
+
+**User emotion:** curious, tired, quietly misaligned
+**User question:** “Does this actually understand what I’m feeling?”
+**UX goal:** recognition before explanation
+**UI must show:** one sharp headline, one calm visual, one obvious next move
+**Avoid:** long hero paragraphs, multiple CTAs, service cards too early
+
+### UI elements
+
+* full-height hero
+* one editorial headline
+* one 2-line supporting copy block
+* one primary CTA
+* one secondary text link
+* minimal nav
+
+### Laws
+
+**Hick’s Law:** reduce choice at the top to one main action and one softer exploration path. Too many options in the first screen slows emotional commitment.
+**Jakob’s Law:** keep nav familiar even if the storytelling is cinematic. Unusual layout is fine, but navigation should still feel instantly understandable.
+
+---
+
+## Stage 2: Recognition
+
+**User emotion:** “This feels true”
+**User question:** “Am I broken, or just disconnected?”
+**UX goal:** name the internal tension clearly
+**UI must show:** short, scrollable recognition scenes with pauses
+**Avoid:** jumping into credentials or packages too soon
+
+### UI elements
+
+* text-led sections
+* wide whitespace between scenes
+* quiet transitions
+* no image clutter
+* one pull-quote style emotional truth
+
+### Laws
+
+**Miller’s Law:** chunk the emotional narrative into 3 to 5 small beats, not one giant block.
+**Gestalt Law of Proximity:** each emotional idea should sit in its own visual cluster so the user can process one truth at a time.
+
+---
+
+## Stage 3: Trust
+
+**User emotion:** cautiously open
+**User question:** “Why should I trust Harish?”
+**UX goal:** make the guide feel human, not elevated
+**UI must show:** lived story, select credentials, emotional honesty, proof
+**Avoid:** resume wall, certification overload, guru energy
+
+The current About page already gives strong raw material here: Harish’s self-description, mission, years of full-time coaching since 2021, global client base, and extensive training under Eric Maisel, Jill Badonsky, Leon VanderPol, Stevie Kent, and movement practice rooted in Fighting Monkey. ([Alchemy Unbounded][2])
+
+### UI elements
+
+* split-layout founder section
+* timeline or scene-based journey section
+* “teachers who shaped the work” strip instead of certificate dump
+* testimonial excerpts embedded after founder story
+
+### Laws
+
+**Authority bias, used carefully:** selected credentials help, but should come after emotional trust, not before it.
+**Peak-End Rule:** the trust phase should end with a strong emotional truth, not a dry credentials list.
+
+---
+
+## Stage 4: Exploration
+
+**User emotion:** interested, comparing internally
+**User question:** “Which path is right for me?”
+**UX goal:** help self-selection without overwhelm
+**UI must show:** three clear pathways
+
+The current site already has the three pillars:
+
+* Transformational Life Coaching
+* Creativity Coaching
+* Movement Arts Training. ([Alchemy Unbounded][1])
+
+### UI elements
+
+* three offering panels
+* “who this is for”
+* “what changes”
+* one quiet CTA per offering
+* optional compare row at bottom
+
+### Laws
+
+**Hick’s Law:** only three high-level choices is good. Keep it there. Do not add sub-options too early.
+**Fitts’s Law:** each offering panel should be large, obvious, and easy to tap on mobile.
+**Gestalt Similarity:** all three paths should share structure so the user compares quickly.
+
+---
+
+## Stage 5: Clarity
+
+**User emotion:** “I can imagine what this journey feels like”
+**User question:** “What happens if I begin?”
+**UX goal:** reduce uncertainty
+**UI must show:** simple stage-based process
+
+### UI elements
+
+* vertical journey path
+* 5 stages max
+* stage name + one-line meaning + optional reveal
+* connected visual thread
+
+### Laws
+
+**Miller’s Law:** keep the journey to 5 stages max. More than that feels complex.
+**Goal-gradient effect:** people move more easily when they can see the path ahead.
+
+---
+
+## Stage 6: Decision
+
+**User emotion:** ready, but still cautious
+**User question:** “Is there pressure?”
+**UX goal:** make the CTA feel safe
+**UI must show:** discovery call as conversation, not commitment
+
+The current site already uses “Book a Free Discovery Call” and direct contact routes. ([Alchemy Unbounded][1])
+
+### UI elements
+
+* single CTA section
+* what happens next
+* contact alternatives
+* reassurance copy
+* short form or calendar embed
+
+### Laws
+
+**Fitts’s Law:** CTA button must be prominent, thumb-friendly, and repeated only after trust is built.
+**Peak-End Rule:** the final page must leave the user with calm clarity, not urgency pressure.
+
+---
+
+## Stage 7: Post-action
+
+**User emotion:** relief
+**User question:** “Did I do the right thing?”
+**UX goal:** reinforce trust after submission
+**UI must show:** warm confirmation, next step, response expectation
+
+### UI elements
+
+* thank-you screen
+* founder note
+* expected response time
+* optional journal prompt or reflection line
+
+### Laws
+
+**Zeigarnik effect:** after action, tell the user what happens next so the open loop feels held, not anxious.
+
+# 3. Page flow architecture
+
+## 1. Home
+
+**Role:** entry + recognition
+**Must do:** make the user feel understood fast
+**Must not do:** explain everything
+
+## 2. About
+
+**Role:** human trust
+**Must do:** show who Harish is and why this work is real
+**Must not do:** read like a biography page only
+
+## 3. The Work
+
+**Role:** conceptual clarity
+**Must do:** explain what this is and what it is not
+**Must not do:** become abstract philosophy without grounding
+
+## 4. Offerings
+
+**Role:** fit and self-selection
+**Must do:** separate the three paths clearly
+**Must not do:** overload users with package complexity
+
+## 5. Journey
+
+**Role:** uncertainty reduction
+**Must do:** show how transformation unfolds
+**Must not do:** feel mechanical
+
+## 6. Voices
+
+**Role:** social proof through witness
+**Must do:** show real human shifts
+**Must not do:** feel like stacked praise quotes
+
+## 7. Begin
+
+**Role:** conversion
+**Must do:** feel like a doorway
+**Must not do:** feel like a sales form
+
+# 4. Scroll narrative strategy
+
+Most websites feel like “scrolling paper” because nothing changes emotionally. Every section has the same density, same rhythm, same emphasis, same pace.
+
+This one should move like this:
+
+**pause → discomfort → recognition → trust → possibility → invitation**
+
+So the homepage scroll rhythm should be:
+
+1. opening frame
+2. pause
+3. quiet discomfort
+4. villain: conditioned life
+5. shift
+6. guide
+7. three paths
+8. proof
+9. invitation
+
+That structure matches the current brand’s themes of deep transformation, coaching, creative expression, and embodied practice, while making the scroll feel directed instead of text-heavy. ([Alchemy Unbounded][1])
+
+# 5. UX laws applied to your product
+
+## Hick’s Law
+
+**Problem:** too many choices too early create hesitation.
+**Plan:** one primary CTA in hero, one soft secondary action, then offerings later.
+
+## Fitts’s Law
+
+**Problem:** small or distant CTAs create friction, especially on mobile.
+**Plan:** large touch targets, sticky mobile CTA only after trust sections, generous tap areas for each offering.
+
+## Jakob’s Law
+
+**Problem:** if everything feels unfamiliar, users work too hard.
+**Plan:** keep storytelling cinematic, but keep nav, forms, and page structure familiar.
+
+## Miller’s Law
+
+**Problem:** too much copy in one block overwhelms processing.
+**Plan:** chunk long philosophy into smaller scenes, especially on About and service pages.
+
+## Gestalt Principles
+
+**Problem:** unrelated items feel confusing when visually similar.
+**Plan:** group copy, proof, and CTAs with strong spacing logic. Use whitespace as structure.
+
+## Peak-End Rule
+
+**Problem:** users remember the emotional peak and the ending.
+**Plan:** strongest emotional truth on homepage and strongest calm invitation on Begin page.
+
+# 6. Page-by-page UX + UI mapping
+
+## HOME
+
+### Section 1: Hero
+
+**Purpose:** recognition
+**User mindset:** “Please don’t give me generic coaching copy”
+**Layout:** full viewport, centered
+**UI hierarchy:** headline → 2-line body → CTA
+**Visual:** one still portrait or very slow filmic motion
+**Interaction:** subtle fade-in, no more
+
+### Section 2: The Pause
+
+**Purpose:** create breathing room
+**Layout:** one-line section, lots of space
+**UI note:** no button here
+
+### Section 3: Quiet Discomfort
+
+**Purpose:** articulate internal misalignment
+**Layout:** narrow editorial text block
+**Visual:** mostly absent
+**Interaction:** none
+
+### Section 4: Conditioned Life
+
+**Purpose:** define the villain
+**Layout:** darker tonal shift
+**UI note:** slightly denser copy, tighter composition
+
+### Section 5: Return
+
+**Purpose:** relief and possibility
+**Layout:** open composition
+**Visual:** light returns, more space
+**Interaction:** gentle reveal
+
+### Section 6: Guide
+
+**Purpose:** trust
+**Layout:** split image-copy
+**UI note:** short bio, not full story
+
+### Section 7: Paths
+
+**Purpose:** exploration
+**Layout:** 3-panel offering system
+**Interaction:** hover/tap reveals one extra line only
+
+### Section 8: Voices
+
+**Purpose:** proof
+**Layout:** fixed story blocks, not carousel
+
+### Section 9: Invitation
+
+**Purpose:** move toward action
+**Layout:** minimal final CTA with room around it
+
+---
+
+## ABOUT
+
+### Section 1: Who I am
+
+short personal opening
+
+### Section 2: The work I do
+
+what Harish stands for
+
+### Section 3: My journey
+
+broken into mini-scenes
+
+### Section 4: Teachers and training
+
+authority without ego
+
+### Section 5: Vision
+
+where the brand is going
+
+**UI rule:** use rhythm changes. Long-form page, but no uninterrupted essay walls.
+
+---
+
+## THE WORK
+
+### Section 1: What this is not
+
+### Section 2: What this is
+
+### Section 3: Three dimensions of transformation
+
+### Section 4: How change happens
+
+### Section 5: Who this is for
+
+**UI rule:** cleaner, more distilled than About. This page is for clarity.
+
+---
+
+## OFFERINGS
+
+### Section 1: Intro
+
+### Section 2: Transformational Life Coaching
+
+The current page focuses on themes like getting unstuck, authenticity, freedom from conditioning, and inner conflicts. ([Alchemy Unbounded][3])
+
+### Section 3: Creativity Coaching
+
+The current page centers on meaningful creative work, overcoming resistance, clarity, confidence, and blocks. ([Alchemy Unbounded][4])
+
+### Section 4: Movement Arts Training
+
+The current page centers on vitality, wholeness, body intelligence, stillness, rhythm, and creative movement. ([Alchemy Unbounded][5])
+
+### Section 5: Which path is for you?
+
+simple self-selection block
+
+**UI rule:** no pricing here. This page is for fit, not commitment.
+
+---
+
+## JOURNEY
+
+### Section 1: Awareness
+
+### Section 2: Unlearning
+
+### Section 3: Reconnection
+
+### Section 4: Expression
+
+### Section 5: Integration
+
+**UI rule:** use a vertical thread or timeline. This is one of the few places where motion can do real narrative work.
+
+---
+
+## VOICES
+
+### Structure:** Before → Shift → After**
+
+Group by:
+
+* clarity
+* creativity
+* embodiment
+* confidence
+
+**UI rule:** no slider. Sliders kill depth because users don’t control pace.
+
+---
+
+## BEGIN
+
+### Section 1: You don’t need to have it all figured out
+
+### Section 2: What happens next
+
+### Section 3: Gentle reassurance
+
+### Section 4: CTA + alternate contact methods
+
+**UI rule:** this should be the calmest page on the site.
+
+# 7. UI decision system
+
+## Use more whitespace when:
+
+* emotional truth needs to land
+* user needs to pause
+* you want premium calmness
+
+## Use more density when:
+
+* naming the problem
+* comparing offerings
+* showing process detail
+
+## Use contrast when:
+
+* shifting emotional act
+* moving from confusion to clarity
+* highlighting final CTA
+
+## Reduce visual intensity when:
+
+* the copy is already emotionally strong
+* trust is being built
+* form completion is required
+
+# 8. UI elements to use, and when
+
+## Hero
+
+Use for emotional interruption
+Do not overload with buttons or badges
+
+## Split founder block
+
+Use for About and trust scenes
+Do not use repeatedly
+
+## Editorial text section
+
+Use for philosophy and recognition
+Do not let it run too long without visual or spacing break
+
+## Offering panels
+
+Use for the 3 paths
+Do not add icons unless they truly add meaning
+
+## Journey timeline
+
+Use on Journey page
+Do not use on homepage
+
+## Witness story block
+
+Use for testimonials
+Do not use a carousel
+
+## Quiet CTA section
+
+Use late in page
+Do not use as every section ending
+
+## Threshold form
+
+Use only on Begin
+Do not scatter forms across the whole product
+
+# 9. Interaction design system
+
+* hover: slight underline shift or tone change
+* button press: subtle darken/lighten, no bounce
+* section reveal: 250–400ms soft fade + rise
+* nav: minimal sticky header after first viewport
+* form feedback: warm, clear, human
+* loading states: skeletons or soft fades, no flashy spinners
+
+The UI should feel alive, but calm. Never static in a dead way. Never animated in a showy way.
+
+# 10. Motion system
+
+## Use motion for
+
+* directing attention
+* signaling scene change
+* softening scroll transitions
+* drawing the journey thread
+
+## Do not use motion for
+
+* decoration
+* proving modernity
+* constant parallax
+* testimonial autoplay
+* over-animated text blocks
+
+## Timing
+
+* fast micro interactions: 120–180ms
+* standard hover/focus: 180–240ms
+* section reveal: 260–420ms
+* bigger transitions: 320–480ms
+
+Stillness should be strongest in:
+
+* hero pause
+* founder truth section
+* final invitation
+
+# 11. Visual hierarchy system
+
+## Level 1
+
+headline truth
+largest type
+strongest contrast
+
+## Level 2
+
+supporting explanation
+medium width
+more breathing room
+
+## Level 3
+
+details like “who this is for” or process steps
+
+## Level 4
+
+captions, labels, metadata
+
+Hierarchy should come from:
+
+* type scale
+* vertical spacing
+* contrast
+* container width
+
+Not from visual noise.
+
+# 12. Cognitive load fixes
+
+These are the likely friction points to avoid:
+
+* too much emotional copy in one block
+* too many similarly weighted sections
+* service details before trust
+* repeating the same emotional promise with different words
+* too many CTA placements
+
+Fix with:
+
+* chunking
+* fewer equal-weight moments
+* stronger transitions
+* page-specific jobs
+* tighter copy
+
+# 13. Conversion flow
+
+## Soft CTA
+
+“Read the story”
+“Explore the paths”
+
+## Mid CTA
+
+“See how the journey works”
+“Find the right space for you”
+
+## Final CTA
+
+“Begin with a conversation”
+“Book a free discovery call”
+
+Trust should build in this order:
+recognition → founder trust → conceptual clarity → self-selection → proof → invitation
+
+# 14. Experience gaps to watch for
+
+The current brand is strong where it matters most: voice, sincerity, depth, and service substance. ([Alchemy Unbounded][1]) The likely gaps are:
+
+* long uninterrupted reading stretches
+* not enough scroll rhythm
+* no single “The Work” page unifying the philosophy
+* offerings not yet framed as one coordinated journey
+* testimonials likely stronger as witness stories than quote stacks
+
+# 15. Final experience vision
+
+The first 5 seconds should feel like this:
+
+**quiet, serious, human, intentional**
+
+Scrolling should feel like:
+
+* being recognized
+* then gently led
+* then given room to choose
+
+Trust should build without force.
+The UI should feel restrained, editorial, calm, and precise.
+The whole product should feel different from generic coaching websites because it does not rush to sell transformation. It first creates the feeling that transformation is safe, real, and human.
+
+That is the UX win.
+
+If you want, the next step is for me to turn this into a **full page-by-page wireframe plan with exact sections, UI blocks, and component names for Home, About, The Work, Offerings, Journey, Voices, and Begin**.
+
+[1]: https://www.alchemyunbounded.com/ "ALCHEMY UNBOUNDED | COACHING, LIFE TRANSFORMATION"
+[2]: https://www.alchemyunbounded.com/about "ABOUT | ALCHEMY UNBOUNDED"
+[3]: https://www.alchemyunbounded.com/transformational-life-coaching "TRANSFORMATIONAL LIFE COACHING | ALCHEMY UNBOUNDED"
+[4]: https://www.alchemyunbounded.com/creativity-coaching "CREATIVITY COACHING | ALCHEMY UNBOUNDED"
+[5]: https://www.alchemyunbounded.com/movement-arts-training "MOVEMENT ARTS TRAINING | ALCHEMY UNBOUNDED"
+
+
+
+
+Good. Now we’re not guessing anymore. We’re designing this like a real product.
+
+I’m going to give you a **clean, execution-ready wireframe + design lens system** that you can directly translate into Figma or Next.js.
+
+Also, I’ll anchor this with your **UX-law + experience thinking system** so every decision is intentional, not aesthetic guessing 
+
+---
+
+# 1. DESIGN LENS (FINAL DECISION)
+
+## Primary → Apple
+
+## Secondary → Nike (very subtle layer)
+
+### Why this combo works
+
+**Apple gives you:**
+
+* restraint
+* clarity
+* silence
+* premium calm
+* inevitability
+
+**Nike gives you:**
+
+* emotional transformation
+* identity shift
+* inner activation
+
+### What this means in practice
+
+| Layer   | Behavior                         |
+| ------- | -------------------------------- |
+| Layout  | Minimal, structured, intentional |
+| Copy    | Poetic but sharp                 |
+| Motion  | Slow, controlled, meaningful     |
+| UI      | Invisible, not decorative        |
+| Emotion | Deep, not loud                   |
+
+---
+
+# 2. EXPERIENCE PRINCIPLES (NON-NEGOTIABLE)
+
+1. **Do not overwhelm the user early**
+2. **Recognition > explanation**
+3. **Silence is part of the UI**
+4. **Every section must shift emotion**
+5. **No section exists without purpose**
+6. **Trust builds slowly, not aggressively**
+7. **Conversion is an invitation, not a push**
+
+If any section breaks these → it gets removed.
+
+---
+
+# 3. USER JOURNEY (REAL FLOW)
+
+## 1. Arrival
+
+“I’m tired of surface-level stuff”
+
+→ Show: truth
+→ Hide: services
+
+---
+
+## 2. Curiosity
+
+“This feels different…”
+
+→ Show: emotional accuracy
+→ Hide: complexity
+
+---
+
+## 3. Reflection
+
+“This is me”
+
+→ Show: internal problems
+→ Hide: solutions
+
+---
+
+## 4. Trust
+
+“I think this person gets it”
+
+→ Show: Harish
+→ Hide: ego
+
+---
+
+## 5. Connection
+
+“This might help me”
+
+→ Show: paths
+→ Hide: pricing complexity
+
+---
+
+## 6. Decision
+
+“I’m ready to explore”
+
+→ Show: simple entry
+→ Hide: pressure
+
+---
+
+# 4. PAGE ARCHITECTURE
+
+| Page      | Role           |
+| --------- | -------------- |
+| Home      | Recognition    |
+| About     | Trust          |
+| The Work  | Clarity        |
+| Offerings | Self-selection |
+| Journey   | Process        |
+| Voices    | Proof          |
+| Begin     | Conversion     |
+
+---
+
+# 5. FULL WIREFRAMES (CORE)
+
+Now this is the important part.
+
+---
+
+# 🏠 HOME PAGE WIREFRAME
+
+## Scene 1 — Hero (Recognition)
+
+**Purpose:** stop scroll, create emotional hit
+
+* UI Block: `HeroBlock`
+* Layout: full screen, centered
+* Content:
+
+  * headline (1–2 lines)
+  * subtext (2 lines)
+  * CTA
+
+**Interaction:**
+
+* slow fade-in
+* no distractions
+
+**Why:**
+First 3 seconds decide everything
+
+---
+
+## Scene 2 — The Pause
+
+**Purpose:** breathing space
+
+* UI Block: `WhitespaceSection`
+* Content: one line only
+
+**Why:**
+Silence creates authority
+
+---
+
+## Scene 3 — Quiet Discomfort
+
+**Purpose:** articulate internal struggle
+
+* UI Block: `TextBlock`
+* Layout: narrow column
+
+**Why:**
+Miller’s Law → chunk emotional content
+
+---
+
+## Scene 4 — The Conditioned Life
+
+**Purpose:** define villain
+
+* UI Block: `Text + ToneShift`
+* Layout: darker background
+
+**Why:**
+Contrast increases emotional clarity
+
+---
+
+## Scene 5 — The Shift
+
+**Purpose:** relief
+
+* UI Block: `TextBlock + LightReturn`
+
+---
+
+## Scene 6 — The Guide (Harish)
+
+**Purpose:** trust
+
+* UI Block: `SplitSection`
+* Left: image
+* Right: short story
+
+---
+
+## Scene 7 — The Paths
+
+**Purpose:** exploration
+
+* UI Block: `3 Column Cards`
+
+Components:
+
+* `OfferingCard`
+
+---
+
+## Scene 8 — Voices
+
+**Purpose:** proof
+
+* UI Block: `TestimonialBlock`
+* Layout: stacked, NOT slider
+
+---
+
+## Scene 9 — Invitation
+
+**Purpose:** conversion
+
+* UI Block: `CTASection`
+* Minimal copy
+
+---
+
+# 👤 ABOUT PAGE WIREFRAME
+
+## Section Flow
+
+1. Opening truth
+2. Who I am
+3. My journey (chunked)
+4. The work I do
+5. Teachers / influences
+6. Vision
+
+### Key UI Blocks
+
+* `TextBlock`
+* `SplitSection`
+* `TimelineBlock`
+
+---
+
+# 🧠 THE WORK PAGE
+
+## Purpose
+
+Explain philosophy clearly
+
+### Sections
+
+1. What this is not
+2. What this is
+3. Dimensions of transformation
+4. How change happens
+5. Who it’s for
+
+---
+
+# 🧩 OFFERINGS PAGE
+
+## Structure
+
+Each offering = same pattern
+
+* intro
+* who it’s for
+* what shifts
+* what happens
+* CTA
+
+### UI
+
+* `StackedOfferingSections`
+* NOT card overload
+
+---
+
+# 🛤 JOURNEY PAGE
+
+## Structure
+
+Vertical path
+
+1. Awareness
+2. Unlearning
+3. Reconnection
+4. Expression
+5. Integration
+
+### UI
+
+* `TimelineVertical`
+* connected line
+
+---
+
+# 🗣 VOICES PAGE
+
+## Structure
+
+Story format
+
+* before
+* shift
+* after
+
+### UI
+
+* `StoryCard`
+* no carousel
+
+---
+
+# 🚪 BEGIN PAGE
+
+## Structure
+
+1. reassurance
+2. what happens next
+3. CTA
+4. alternate contact
+
+### UI
+
+* `FormBlock`
+* `CalmCTASection`
+
+---
+
+# 6. COMPONENT SYSTEM
+
+## Core Components
+
+### HeroBlock
+
+* full screen
+* 1 CTA only
+
+---
+
+### TextBlock
+
+* narrow width
+* used for emotional content
+
+---
+
+### SplitSection
+
+* image + text
+* used for trust
+
+---
+
+### OfferingCard
+
+* title
+* short description
+* hover reveal
+
+---
+
+### TestimonialBlock
+
+* stacked quotes
+* no slider
+
+---
+
+### CTASection
+
+* minimal
+* centered
+
+---
+
+### FormBlock
+
+* simple inputs
+* no clutter
+
+---
+
+### TimelineBlock
+
+* vertical progression
+
+---
+
+# 7. UI DECISION LOGIC
+
+## When to use minimal UI
+
+* emotional sections
+* trust sections
+* CTA sections
+
+## When to use structure
+
+* offerings
+* journey
+* comparisons
+
+## When to use contrast
+
+* emotional shift
+* villain section
+* final CTA
+
+---
+
+# 8. UX LAW APPLICATION
+
+## Hick’s Law
+
+* only 1–2 choices per section
+
+## Fitts’s Law
+
+* large CTA buttons
+* mobile thumb-friendly
+
+## Jakob’s Law
+
+* normal nav
+* predictable flow
+
+## Miller’s Law
+
+* break long text into chunks
+
+## Gestalt
+
+* group related content tightly
+
+---
+
+# 9. INTERACTION + MOTION
+
+## Motion Rules
+
+* subtle
+* slow
+* intentional
+
+### Use:
+
+* fade + rise
+* soft transitions
+
+### Avoid:
+
+* parallax spam
+* bouncing elements
+* flashy animations
+
+---
+
+# 10. EXPERIENCE GAPS (CRITICAL)
+
+What usually breaks this type of site:
+
+1. too much text in one block
+2. no rhythm in scroll
+3. repeating same emotion
+4. too many CTAs
+5. early selling
+6. testimonial overload
+7. lack of visual breathing
+
+---
+
+# 11. FINAL EXPERIENCE VISION
+
+This should feel like:
+
+* entering a quiet room
+* someone understanding you without explaining too much
+* being guided, not sold to
+
+First 5 seconds:
+
+👉 calm
+👉 serious
+👉 intentional
+
+Scrolling:
+
+👉 recognition → trust → clarity → invitation
+
+End:
+
+👉 no pressure
+👉 just a door
+
+---
+
+# WHAT YOU SHOULD DO NEXT
+
+If you want to execute this properly, next steps:
+
+### Option 1
+
+I convert this into:
+👉 **Figma wireframes (exact layout frames)**
+
+### Option 2
+
+I convert this into:
+👉 **Next.js component structure + Tailwind + Framer Motion**
+
+### Option 3 (best)
+
+👉 Full build system:
+
+* design tokens
+* component code
+* page templates
+
+

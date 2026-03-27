@@ -1,0 +1,627 @@
+Good. We’re out of prompt mode.
+
+Here’s the **actual product design direction** for Alchemy Unbounded, built on the current site’s structure, voice, and offerings: the site already has a homepage promise, About, three service pillars, testimonials, pricing, contact, and a “Book a Free Discovery Call” entry point. The redesign should keep that foundation, but turn it into a tighter, more cinematic product experience. ([Alchemy Unbounded][1])
+
+# Product definition
+
+**Alchemy Unbounded helps thoughtful, inwardly searching people return to clarity, creativity, and conscious living without the pressure, noise, and generic energy of typical self-help websites.**
+
+The current brand already promises deep transformation in life, work, creativity, and consciousness, and positions Harish across transformational life coaching, creativity coaching, and movement arts training. ([Alchemy Unbounded][1])
+
+The new product should feel like this:
+
+* not a coaching brochure
+* not a spiritual sales funnel
+* not a luxury wellness page
+
+It should feel like a **quiet digital world you step into**.
+
+# Final product structure
+
+Keep the product to seven main routes:
+
+* `/` Home
+* `/about`
+* `/the-work`
+* `/offerings`
+* `/journey`
+* `/voices`
+* `/begin`
+
+This is a cleaner, more intentional version of the current public structure, which already centers Around About, service pages, testimonials, pricing, and contact. ([Alchemy Unbounded][1])
+
+---
+
+# 1. Final user journey
+
+## Entry
+
+**Emotion:** quiet discomfort, curiosity, fatigue
+**User lands on:** Home
+**What they see:** one emotional truth, one strong visual, very little noise
+**What moves them forward:** recognition
+
+## Recognition
+
+**Emotion:** “this understands something I haven’t said out loud”
+**User moves to:** About or The Work
+**What they see:** the problem named clearly, then the guide introduced with humility
+
+## Trust
+
+**Emotion:** “this feels real, not performative”
+**User moves to:** Offerings or Voices
+**What they see:** Harish’s lived journey, real credentials, real client shifts. The current site already has strong material for all three. ([Alchemy Unbounded][2])
+
+## Fit
+
+**Emotion:** “there may be a path here for me”
+**User moves to:** Offerings and Journey
+**What they see:** not packages first, but pathways
+
+## Readiness
+
+**Emotion:** calm willingness
+**User moves to:** Begin
+**What they see:** one clear invitation, no pressure
+
+## Action
+
+**Emotion:** trust
+**User action:** discovery call / contact
+
+---
+
+# 2. Homepage design
+
+The homepage should work like a film.
+
+## Scene 1: Opening frame
+
+**Purpose:** immediate recognition
+**Headline:**
+**You are not broken.**
+**You have simply drifted away from yourself.**
+
+**Supporting copy:**
+A life can look fine on the outside
+and still feel quietly misaligned within.
+
+**Layout:** centered, narrow text width, near-fullscreen
+**Visual:** still portrait or slow atmospheric film clip, no montage
+**Motion:** text fades in gently, no dramatic movement
+
+## Scene 2: The pause
+
+**Purpose:** slow the user down
+**Copy:** one short line only
+
+**Line:**
+Most people never stop long enough to notice it.
+
+**Layout:** large whitespace, no buttons
+**Why:** this page must establish its pace early
+
+## Scene 3: The discomfort
+
+**Purpose:** name the real internal tension
+**Headline:**
+You kept going.
+But something deeper stayed untouched.
+
+**Body:**
+You learned how to function.
+How to perform.
+How to keep moving.
+
+But clarity did not come from movement alone.
+
+**Layout:** left-aligned editorial block
+**Visual:** none or faint texture
+**Motion:** almost still
+
+## Scene 4: The villain
+
+**Purpose:** define the conditioned life
+**Headline:**
+A life can become efficient
+without ever becoming fully alive.
+
+**Body:**
+Routine. Expectation. Performance.
+Inherited roles. Unquestioned patterns.
+A way of living that works, but never quite feels like yours.
+
+**Layout:** slightly denser section, darker background
+**Why here:** tension must rise before the shift
+
+## Scene 5: The shift
+
+**Purpose:** first relief
+**Headline:**
+The answer is not to become someone else.
+It is to return.
+
+**Body:**
+To what is true.
+To what is yours.
+To the life beneath the noise.
+
+**Layout:** wide open section, lighter background
+**Motion:** soft reveal
+
+## Scene 6: The guide
+
+The current About page gives you the right raw material: Harish is presented through lived struggle, service, long inner work, formal training, and a move away from corporate life toward this work. ([Alchemy Unbounded][2])
+
+**Headline:**
+I’m Harish.
+I’m not here to stand above your journey.
+I’m here to walk with you through it.
+
+**Body:**
+This work comes from lived experience, deep inner work, years of study, and a life shaped by transformation from the inside out.
+
+**Layout:** split screen, image left, copy right
+**CTA:** Read the story
+
+## Scene 7: The three paths
+
+The current live site already groups the work into transformational life coaching, creativity coaching, and movement arts training. ([Alchemy Unbounded][1])
+
+Use three editorial panels:
+
+### Life
+
+Return to clarity, alignment, and the life that feels like your own.
+
+### Creativity
+
+Clear the inner noise and reconnect with original expression.
+
+### Body
+
+Build a movement practice that restores intelligence, resilience, and presence.
+
+## Scene 8: Proof
+
+The live homepage and testimonials page already include multiple client stories across countries and professions. ([Alchemy Unbounded][1])
+
+Do not use a carousel.
+
+Use 3 fixed story blocks:
+
+* before
+* shift
+* after
+
+## Scene 9: Final invitation
+
+**Headline:**
+If something in you already knows,
+begin there.
+
+**CTA:** Begin with a conversation
+
+No hard sell. No urgency tricks.
+
+---
+
+# 3. About page
+
+The current About page is rich. It already contains Harish’s self-definition, the work, credentials, the personal journey through sorrow, anxiety, shame, emptiness, body transformation, and the larger vision. ([Alchemy Unbounded][2])
+
+The problem is not lack of depth.
+It is **too much density without enough pacing**.
+
+## New structure
+
+### Section 1: Who I am
+
+Keep it intimate, but cut repetition.
+
+**Headline:**
+A lifelong student of life, creativity, and human transformation.
+
+### Section 2: The work I do
+
+Shorter, clearer
+
+**Headline:**
+I work with people who are ready to live with more clarity, depth, creativity, and conscious presence.
+
+### Section 3: My journey
+
+This is the emotional heart of the page.
+
+Break it into four mini-scenes:
+
+* the difficult early years
+* the turn inward
+* the body transformation
+* leaving the old life behind
+
+### Section 4: My training
+
+The current credentials are strong and should stay, especially training with Eric Maisel, Jill Badonsky, Leon VanderPol, Stevie Kent, and movement practice rooted in Fighting Monkey. ([Alchemy Unbounded][2])
+
+But present them as:
+
+* teachers who shaped the work
+* not a certification wall
+
+### Section 5: The vision
+
+End with the larger philosophy of Alchemy Unbounded
+
+**Headline:**
+A space for real transformation, where creativity, consciousness, and life are no longer separated.
+
+### CTA
+
+Explore the work
+
+---
+
+# 4. The Work page
+
+This page does not exist as a unified philosophical page yet. Right now, the meaning of the work is spread across the service pages. ([Alchemy Unbounded][3])
+
+Create `/the-work`.
+
+## Purpose
+
+Explain what this actually is.
+
+## Structure
+
+### Section 1: What this is not
+
+**Headline:**
+This is not advice.
+Not motivation.
+Not surface-level self-improvement.
+
+### Section 2: What this is
+
+**Headline:**
+This is a process of seeing clearly, unlearning deeply, and living more truthfully.
+
+### Section 3: The three dimensions
+
+* inner life
+* creative life
+* embodied life
+
+### Section 4: How transformation happens
+
+Not through force.
+Through awareness, attention, honesty, and sustained practice.
+
+### CTA
+
+See the paths
+
+---
+
+# 5. Offerings page
+
+The current site already has the three offerings, and each one has substantial copy. ([Alchemy Unbounded][1])
+
+The redesign should make them easier to choose between.
+
+## Structure
+
+### Intro
+
+**Headline:**
+Three spaces.
+One deeper movement.
+A return to yourself.
+
+### Offering 1
+
+**Transformational Life Coaching**
+For people navigating inner change, life transitions, confusion, stagnation, and the desire to live more consciously.
+
+### Offering 2
+
+**Creativity Coaching**
+For creators, artists, and inwardly alive people who need support moving through doubt, blocks, and inner fragmentation.
+
+### Offering 3
+
+**Movement Arts Training**
+For those who want intelligence in the body, not just performance from it.
+
+Each offering card should include:
+
+* who it’s for
+* what changes
+* what kind of support it offers
+* one soft CTA
+
+No pricing on this page.
+
+---
+
+# 6. The Journey page
+
+Right now the site has rich philosophy, but not a clearly staged user journey page. That is the gap. The service pages explain benefits and who can benefit, but they do not create one coherent transformation path. ([Alchemy Unbounded][3])
+
+Create `/journey`.
+
+## Stages
+
+### 1. Awareness
+
+You begin to notice what is true.
+
+### 2. Unlearning
+
+What was inherited starts to loosen.
+
+### 3. Reconnection
+
+You begin to hear your own life again.
+
+### 4. Expression
+
+Creativity, action, and honesty return.
+
+### 5. Integration
+
+The change becomes lived, not just understood.
+
+UI idea:
+A vertical thread that slowly extends as the user scrolls.
+
+---
+
+# 7. Voices page
+
+The current site already has strong testimonials, with real names, professions, and international spread. ([Alchemy Unbounded][1])
+
+That is good raw trust.
+But it should feel more like **witness** and less like stacked endorsements.
+
+## Structure
+
+Group them by transformation theme:
+
+* clarity
+* creativity
+* confidence
+* inner shift
+* embodiment
+
+Each story becomes:
+
+**Before**
+Where they were
+
+**Shift**
+What changed in the work
+
+**After**
+What became possible
+
+No auto-slider. No rotating quotes.
+
+---
+
+# 8. Begin page
+
+The current site already has contact and free discovery call entry points. ([Alchemy Unbounded][1])
+
+This page should become the calmest page on the site.
+
+## Structure
+
+### Section 1
+
+**Headline:**
+You do not need to have it all figured out.
+
+### Section 2
+
+What happens next:
+
+* we begin with a conversation
+* you share where you are
+* we explore whether this is the right fit
+
+### Section 3
+
+Reassurance:
+There is no pressure here.
+Only clarity.
+
+### CTA
+
+Book a free discovery call
+
+Secondary:
+Email / WhatsApp
+
+---
+
+# 9. Design system
+
+## Colors
+
+* Deep Charcoal: `#191A1D`
+* Bone: `#F5F2EB`
+* Fog: `#E8E4DD`
+* Warm Slate: `#736C63`
+* Muted Amber: `#B98A4A`
+
+Use amber rarely.
+If it appears everywhere, it loses meaning.
+
+## Typography
+
+* Display: Canela / high-end serif equivalent
+* Body: Inter / clean modern sans
+* Accent italic: only for rare emotional lines
+
+## Spacing
+
+* 8px base grid
+* 160px vertical section spacing desktop
+* 96px tablet
+* 72px mobile
+* narrow text column for long-form reading
+
+## Surfaces
+
+* mostly flat
+* almost no visible cards
+* separators through space, not borders
+
+---
+
+# 10. Interaction and motion
+
+## Motion rules
+
+* text reveal: 220–320ms
+* section reveal: 320–420ms
+* page transition: subtle fade, 250ms
+* hover states: minimal tint or underline shift
+
+## Use motion for
+
+* emotional pacing
+* scene transitions
+* revealing depth slowly
+
+## Never use motion for
+
+* decoration
+* showing off
+* constant parallax
+* bouncing CTAs
+* testimonial carousels
+
+The site should move like breath returning.
+
+---
+
+# 11. Component system
+
+## Shared components
+
+* `SectionShell`
+* `EditorialHeading`
+* `QuietCTA`
+* `PullQuote`
+* `WitnessStory`
+* `OfferingPanel`
+* `JourneyStage`
+* `GuideBlock`
+* `ThresholdForm`
+
+## Home-only scenes
+
+* `OpeningFrame`
+* `PauseScene`
+* `ConditionedLifeScene`
+* `GuideScene`
+* `PathsScene`
+* `WitnessScene`
+* `InvitationScene`
+
+## Rules
+
+* no generic cards unless needed
+* no overuse of icons
+* copy first, visuals second
+* every component must have a calm and dense variant
+
+---
+
+# 12. Next.js architecture
+
+```txt
+app/
+  page.tsx
+  about/page.tsx
+  the-work/page.tsx
+  offerings/page.tsx
+  journey/page.tsx
+  voices/page.tsx
+  begin/page.tsx
+
+components/
+  scenes/
+    home/
+    about/
+    work/
+    offerings/
+    journey/
+    voices/
+    begin/
+  shared/
+    SectionShell.tsx
+    EditorialHeading.tsx
+    QuietCTA.tsx
+    PullQuote.tsx
+    GuideBlock.tsx
+    WitnessStory.tsx
+    ThresholdForm.tsx
+
+content/
+  home.ts
+  about.ts
+  work.ts
+  offerings.ts
+  journey.ts
+  voices.ts
+  begin.ts
+
+lib/
+  motion.ts
+  tokens.ts
+  utils.ts
+```
+
+Use:
+
+* server components for most content sections
+* client components only for scroll-based journey thread, forms, and selective in-view reveals
+* Framer Motion sparingly
+
+---
+
+# 13. What to remove from the current feel
+
+The current site’s strength is sincerity and emotional depth. Its weakness is that the depth sometimes arrives in long, uninterrupted stretches, which makes the experience feel more like reading a heartfelt document than moving through a directed product. ([Alchemy Unbounded][1])
+
+So remove:
+
+* long uninterrupted text blocks
+* repeated emotional phrasing
+* service-page sprawl
+* too many equal-weight sections
+* proof that arrives without narrative framing
+
+Keep:
+
+* Harish’s honesty
+* the philosophical depth
+* the three-path structure
+* the real testimonials
+* the non-salesy tone
+
+# 14. The real design principle
+
+**The product should feel like it is guiding the user inward, not pulling them forward.**
+
+That is the whole game.
+
+If you want, next I’ll turn this into the **full page-by-page wireframe with exact section copy, layout instructions, and component specs for every route**.
+
+[1]: https://alchemyunbounded.com/ "ALCHEMY UNBOUNDED | COACHING, LIFE TRANSFORMATION"
+[2]: https://www.alchemyunbounded.com/about "ABOUT | ALCHEMY UNBOUNDED"
+[3]: https://www.alchemyunbounded.com/transformational-life-coaching "TRANSFORMATIONAL LIFE COACHING | ALCHEMY UNBOUNDED"
